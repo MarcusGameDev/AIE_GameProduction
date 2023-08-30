@@ -74,6 +74,7 @@
     <Compile Include="Assets\2d Example Scripts\player2D.cs" />
     <Compile Include="Assets\Scripts\PaddlePiece.cs" />
     <Compile Include="Assets\Scripts\BallController.cs" />
+    <Compile Include="Assets\MainMenuTest.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
